@@ -4,3 +4,5 @@ target
 *.log
 *.iws
 *.ipr
+events.csv
+.mvn/wrapper/maven-wrapper.jar
