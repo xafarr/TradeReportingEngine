@@ -8,6 +8,7 @@
 #### Assumptions
 * Only one filter could be applied.
 * Order of CSV columns are not important.
+* Input are files instead of strings.
 
 #### Trade-offs
 * Hardcoded XPath expressions for simplicity. They could be encapsulated through interface to better conform to open-close principle.
